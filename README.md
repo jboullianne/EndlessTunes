@@ -13,7 +13,7 @@ Endless Tunes was created as proof of concept to show an iOS application which c
 
 ![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/login_ss.png "EndlessTunes ScreenShot")
 
-![](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/search_ss.png | width=100)
+![](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/search_ss.png width=100)
 
 ![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/nowplaying_ss.png "EndlessTunes ScreenShot")
 
