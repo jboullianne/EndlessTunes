@@ -13,10 +13,10 @@ Endless Tunes was created as proof of concept to show an iOS application which c
 
 <img src="https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/login_ss.png" width="40%">
 
-![](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/search_ss.png width=100)
+<img src="https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/search_ss.png" width="40%">
 
-![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/nowplaying_ss.png "EndlessTunes ScreenShot")
+<img src="https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/nowplaying_ss.png" width="40%">
 
-![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/playlist_ss2.png "EndlessTunes ScreenShot")
+<img src="https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/playlist_ss2.png" width="40%">
 
-![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/playlist_ss.png "EndlessTunes ScreenShot")
+<img src="https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/playlist_ss.png" width="40%">
