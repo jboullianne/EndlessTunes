@@ -1,8 +1,7 @@
 # EndlessTunes
 Endless Tunes: Social Music iOS App
 
-![alt-text][logo]
-[logo]: https://github.com/jboullianne/EndlessTunes/blob/master/EndlessSoundFeed/Assets.xcassets/ESF_logo.imageset/ESF_logo.png "EndlessTunes Logo"
+![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/EndlessSoundFeed/Assets.xcassets/ESF_logo.imageset/ESF_logo.png "EndlessTunes Logo")
 
 Endless Tunes was created as proof of concept to show an iOS application which could combine multiple music streaming services into one. Endless Tunes allows a user to search multiple music catalogs simultaneously to quickly find music they're looking for. 
 
