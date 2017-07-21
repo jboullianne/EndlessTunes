@@ -11,3 +11,12 @@ Endless Tunes was created as proof of concept to show an iOS application which c
 - **Create Parties: Start a virtual party and DJ for others, while they listen along on their iOS App. You pick the tunes while they listen along. Alternatively, make the party collaborative and allow others to contribute to the endless tunes
 - **Social: Follow others so you can join their parties, as well as see their custom cross-service playlist creations.
 
+![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/login_ss.png "EndlessTunes ScreenShot")
+
+![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/search_ss.png "EndlessTunes ScreenShot")
+
+![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/nowplaying_ss.png "EndlessTunes ScreenShot")
+
+![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/playlist_ss2.png "EndlessTunes ScreenShot")
+
+![alt-text](https://github.com/jboullianne/EndlessTunes/blob/master/Screenshots/playlist_ss.png "EndlessTunes ScreenShot")
